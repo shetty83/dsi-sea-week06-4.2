@@ -34,7 +34,6 @@ This is a typical example of text classification, where a data scientist's task 
 
 [Starter Code](./code/starter-code/starter-code-4_2.ipynb)
 
->[Solution Code](./code/solution-code/solution-code-4_2.ipynb)
 
 ## Additional resources
 - [Text Feature Extraction](http://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
